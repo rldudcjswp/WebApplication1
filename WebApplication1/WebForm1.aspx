@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            첫번째 수정입니다, 빌드 테스트
+            첫번째 수정입니다, 빌드 테스트 중입니다.
         </div>
     </form>
 </body>
